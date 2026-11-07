@@ -23,6 +23,7 @@ EPGS = [
     "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
 ]
 ATTR = re.compile(r'([\w-]+)\s*=\s*"([^"]*)"')
+LOGO_OVERRIDES = {"medjugorjeitaliatv": "https://www.lyngsat.com/logo/tv/mm/medjugorje_italia_tv_ba.png"}
 BAD_HOSTS = {"team-tv.co"}  # Non includere relay non ufficiali palesemente sospetti.
 
 def fetch(url, limit=60_000_000):
@@ -127,6 +128,10 @@ def main():
 
     if not successes or len(groups) < 20:
         raise SystemExit("Aggiornamento annullato: fonti insufficienti, lista precedente conservata.")
+
+    for k, g in groups.items():
+        if not g["logo"] and k in LOGO_OVERRIDES:
+            g["logo"] = LOGO_OVERRIDES[k]
 
     xml_ids, xml_names, epg_status = load_epg()
     # Nel caso le guide non siano raggiungibili, conserviamo i tvg-id originali.
