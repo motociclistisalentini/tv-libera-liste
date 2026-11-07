@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-07T22:15:33.316572+00:00",
+  "updated_utc": "2026-11-07T22:36:52.349640+00:00",
   "sources": [
     {
       "source": "TvIt",
@@ -14,9 +14,30 @@
     {
       "source": "IPTV-org Italia",
       "ok": true,
-      "entries": 342
+      "entries": 335
     }
   ],
-  "channels": 418,
-  "streams": 456
+  "epg_sources": [
+    {
+      "url": "https://tvit.leicaflorianrobert.dev/epg/list.xml",
+      "ok": true,
+      "channels": 46
+    },
+    {
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "ok": true,
+      "channels": 195
+    }
+  ],
+  "channels": 368,
+  "streams": 441,
+  "logos_associated": 364,
+  "logos_missing": [
+    "Antenna Tre (480p) [Geo-blocked]",
+    "Giovanni Paolo TV (1080p)",
+    "Medjugorje Italia TV (480p)",
+    "Tele One 16 (1080p)"
+  ],
+  "epg_matched": 81,
+  "epg_unmatched": 287
 }
