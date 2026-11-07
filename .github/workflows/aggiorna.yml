@@ -1,0 +1,23 @@
+name: Aggiorna TV Libera
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: write
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Recupera e unisci playlist
+        run: python aggiorna.py
+      - name: Pubblica playlist, EPG e stato
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add TV_LIBERA_AUTO_EPG.m3u canali_fallback.json stato_aggiornamento.json
+          git diff --cached --quiet || (git commit -m 'Aggiorna playlist TV Libera' && git push)
