@@ -1,5 +1,8 @@
 name: Aggiorna TV Libera
 on:
+  push:
+    branches: [main]
+    paths: ['aggiorna.py', 'README.md']
   workflow_dispatch:
   schedule:
     - cron: '17 */6 * * *'
