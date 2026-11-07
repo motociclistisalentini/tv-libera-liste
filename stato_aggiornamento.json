@@ -1,0 +1,22 @@
+{
+  "updated_utc": "2026-11-07T22:15:33.316572+00:00",
+  "sources": [
+    {
+      "source": "TvIt",
+      "ok": true,
+      "entries": 46
+    },
+    {
+      "source": "IPTV-Italy",
+      "ok": true,
+      "entries": 68
+    },
+    {
+      "source": "IPTV-org Italia",
+      "ok": true,
+      "entries": 342
+    }
+  ],
+  "channels": 418,
+  "streams": 456
+}
