@@ -129,6 +129,8 @@ https://tvit.leicaflorianrobert.dev/discovery/real-time/stream.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1 tvg-id="real-time" tvg-name="Real Time" tvg-logo="https://api.superguidatv.it/v1/channels/255/logo?width=120&theme=dark" tvg-chno="131" group-title="discovery",Real Time [alternativa 2]
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="real-time" tvg-name="Real Time" tvg-logo="https://api.superguidatv.it/v1/channels/255/logo?width=120&theme=dark" tvg-chno="131" group-title="discovery",Real Time [alternativa 3]
+http://102.129.186.182:81/realtime/index.m3u8
 #EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/qvc.png" tvg-chno="132" group-title="Altro",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-id="Food.Network.it" tvg-name="FOOD NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/foodnetwork.png" tvg-chno="133" group-title="Discovery",FOOD NETWORK
@@ -227,6 +229,8 @@ https://tvit.leicaflorianrobert.dev/discovery/dmax/stream.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 #EXTINF:-1 tvg-id="dmax" tvg-name="DMAX" tvg-logo="https://api.superguidatv.it/v1/channels/256/logo?width=120&theme=dark" tvg-chno="152" group-title="discovery",DMAX [alternativa 2]
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="dmax" tvg-name="DMAX" tvg-logo="https://api.superguidatv.it/v1/channels/256/logo?width=120&theme=dark" tvg-chno="152" group-title="discovery",DMAX [alternativa 3]
+http://102.129.186.182:81/dmax/index.m3u8
 #EXTINF:-1 tvg-id="rai-storia" tvg-name="Rai Storia" tvg-logo="https://api.superguidatv.it/v1/channels/226/logo?width=120&theme=dark" tvg-chno="154" group-title="rai",Rai Storia
 https://tvit.leicaflorianrobert.dev/rai/rai-storia/stream.m3u8
 #EXTINF:-1 tvg-id="rai-storia" tvg-name="Rai Storia" tvg-logo="https://api.superguidatv.it/v1/channels/226/logo?width=120&theme=dark" tvg-chno="154" group-title="rai",Rai Storia [alternativa 1]
@@ -413,6 +417,8 @@ https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-name="Discovery Channel (Italy) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-chno="" group-title="Entertainment",Discovery Channel (Italy) (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-name="Discovery Channel (Italy) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-chno="" group-title="Entertainment",Discovery Channel (Italy) (1080p) [alternativa 1]
+http://102.129.186.182:81/discovery/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.it@SD" tvg-name="Discovery Turbo (Italy) (1080p)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png" tvg-chno="" group-title="Auto",Discovery Turbo (Italy) (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-name="Disney Channel (Germany) (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-chno="" group-title="Kids",Disney Channel (Germany) (576p)
