@@ -110,11 +110,9 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ts)/
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/tv2000.png" tvg-chno="128" group-title="Altro",TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1 tvg-id="la7d" tvg-name="La7d" tvg-logo="https://api.superguidatv.it/v1/channels/254/logo?width=120&theme=dark" tvg-chno="129" group-title="la7",La7d
-https://tvit.leicaflorianrobert.dev/la7/la7d/stream.m3u8
-#EXTINF:-1 tvg-id="la7d" tvg-name="La7d" tvg-logo="https://api.superguidatv.it/v1/channels/254/logo?width=120&theme=dark" tvg-chno="129" group-title="la7",La7d [alternativa 1]
+#EXTINF:-1 tvg-id="LA7D.it" tvg-name="LA7d" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/la7d.png" tvg-chno="129" group-title="Altro",LA7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
-#EXTINF:-1 tvg-id="la7d" tvg-name="La7d" tvg-logo="https://api.superguidatv.it/v1/channels/254/logo?width=120&theme=dark" tvg-chno="129" group-title="la7",La7d [alternativa 2]
+#EXTINF:-1 tvg-id="LA7D.it" tvg-name="LA7d" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/la7d.png" tvg-chno="129" group-title="Altro",LA7d [alternativa 1]
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-id="la-5" tvg-name="La 5" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=120&theme=dark" tvg-chno="130" group-title="mediaset",La 5
 https://tvit.leicaflorianrobert.dev/mediaset/la-5/stream.m3u8
@@ -256,9 +254,11 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071
 #EXTINF:-1 tvg-id="Motor.Trend.it" tvg-name="Motor Trend" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/motortrend.png" tvg-chno="159" group-title="Discovery",Motor Trend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1 tvg-id="Sportitalia.HD.it" tvg-name="SportItalia" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/sportitalia.png" tvg-chno="160" group-title="Altro",SportItalia
+#EXTINF:-1 tvg-id="sportitalia" tvg-name="Sportitalia" tvg-logo="https://api.superguidatv.it/v1/channels/54/logo?width=120&theme=dark" tvg-chno="160" group-title="sportitalia",Sportitalia
+https://tvit.leicaflorianrobert.dev/sportitalia/sportitalia/stream.m3u8
+#EXTINF:-1 tvg-id="sportitalia" tvg-name="Sportitalia" tvg-logo="https://api.superguidatv.it/v1/channels/54/logo?width=120&theme=dark" tvg-chno="160" group-title="sportitalia",Sportitalia [alternativa 1]
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="Sportitalia.HD.it" tvg-name="SportItalia" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/sportitalia.png" tvg-chno="160" group-title="Altro",SportItalia [alternativa 1]
+#EXTINF:-1 tvg-id="sportitalia" tvg-name="Sportitalia" tvg-logo="https://api.superguidatv.it/v1/channels/54/logo?width=120&theme=dark" tvg-chno="160" group-title="sportitalia",Sportitalia [alternativa 2]
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Solocalcio.it.it" tvg-name="SoloCalcio" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/solocalcio.png" tvg-chno="161" group-title="Altro",SoloCalcio
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
@@ -506,7 +506,9 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/p
 https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTR3Marsala.it@SD" tvg-name="La TR3 Marsala (720p)" tvg-logo="https://i.imgur.com/R4sqZQu.png" tvg-chno="" group-title="General",La TR3 Marsala (720p)
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
-#EXTINF:-1 tvg-id="LA7.CINEMA.it" tvg-name="La7 Cinema (720p)" tvg-logo="https://i.imgur.com/khPweok.png" tvg-chno="" group-title="Undefined",La7 Cinema (720p)
+#EXTINF:-1 tvg-id="la7-cinema" tvg-name="La7 Cinema" tvg-logo="https://api.superguidatv.it/v1/channels/254/logo?width=120&theme=dark" tvg-chno="" group-title="la7",La7 Cinema
+https://tvit.leicaflorianrobert.dev/la7/la7-cinema/stream.m3u8
+#EXTINF:-1 tvg-id="la7-cinema" tvg-name="La7 Cinema" tvg-logo="https://api.superguidatv.it/v1/channels/254/logo?width=120&theme=dark" tvg-chno="" group-title="la7",La7 Cinema [alternativa 1]
 http://102.129.186.182:81/la7d/index.m3u8
 #EXTINF:-1 tvg-id="LaCNews24.it@SD" tvg-name="LaC News 24 (720p)" tvg-logo="https://www.omnys.com/media/news/lac-news24-icona.png" tvg-chno="" group-title="News",LaC News 24 (720p)
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
@@ -760,7 +762,9 @@ https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SportitaliaMotori.it@SD" tvg-name="Sportitalia Motori (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-chno="" group-title="Sports",Sportitalia Motori (720p) [Geo-blocked]
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD" tvg-name="Sportitalia Solocalcio (1080p)" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-chno="" group-title="Sports",Sportitalia Solocalcio (1080p)
+#EXTINF:-1 tvg-id="sportitalia-solocalcio" tvg-name="Sportitalia Solocalcio" tvg-logo="https://api.superguidatv.it/v1/channels/54/logo?width=120&theme=dark" tvg-chno="" group-title="sportitalia",Sportitalia Solocalcio
+https://tvit.leicaflorianrobert.dev/sportitalia/sportitalia-solocalcio/stream.m3u8
+#EXTINF:-1 tvg-id="sportitalia-solocalcio" tvg-name="Sportitalia Solocalcio" tvg-logo="https://api.superguidatv.it/v1/channels/54/logo?width=120&theme=dark" tvg-chno="" group-title="sportitalia",Sportitalia Solocalcio [alternativa 1]
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTrekVoyager.de@IT" tvg-name="Star Trek: Voyager (Germany) IT" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" tvg-chno="" group-title="Movies;Series",Star Trek: Voyager (Germany) IT
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8

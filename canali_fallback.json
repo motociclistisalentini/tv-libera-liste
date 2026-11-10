@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-10T07:15:42.309477+00:00",
+  "updated_utc": "2026-11-10T19:42:21.521106+00:00",
   "epg": [
     "https://tvit.leicaflorianrobert.dev/epg/list.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
@@ -473,17 +473,12 @@
       "logo_present": true
     },
     {
-      "name": "La7d",
-      "id": "la7d",
-      "logo": "https://api.superguidatv.it/v1/channels/254/logo?width=120&theme=dark",
-      "group": "la7",
+      "name": "LA7d",
+      "id": "LA7D.it",
+      "logo": "https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/la7d.png",
+      "group": "Altro",
       "number": "129",
       "streams": [
-        {
-          "url": "https://tvit.leicaflorianrobert.dev/la7/la7d/stream.m3u8",
-          "source": "TvIt",
-          "options": []
-        },
         {
           "url": "https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8",
           "source": "IPTV-Italy",
@@ -1105,12 +1100,17 @@
       "logo_present": true
     },
     {
-      "name": "SportItalia",
-      "id": "Sportitalia.HD.it",
-      "logo": "https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/sportitalia.png",
-      "group": "Altro",
+      "name": "Sportitalia",
+      "id": "sportitalia",
+      "logo": "https://api.superguidatv.it/v1/channels/54/logo?width=120&theme=dark",
+      "group": "sportitalia",
       "number": "160",
       "streams": [
+        {
+          "url": "https://tvit.leicaflorianrobert.dev/sportitalia/sportitalia/stream.m3u8",
+          "source": "TvIt",
+          "options": []
+        },
         {
           "url": "https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/chunklist.m3u8",
           "source": "IPTV-Italy",
@@ -2980,12 +2980,17 @@
       "logo_present": true
     },
     {
-      "name": "La7 Cinema (720p)",
-      "id": "LA7.CINEMA.it",
-      "logo": "https://i.imgur.com/khPweok.png",
-      "group": "Undefined",
+      "name": "La7 Cinema",
+      "id": "la7-cinema",
+      "logo": "https://api.superguidatv.it/v1/channels/254/logo?width=120&theme=dark",
+      "group": "la7",
       "number": "",
       "streams": [
+        {
+          "url": "https://tvit.leicaflorianrobert.dev/la7/la7-cinema/stream.m3u8",
+          "source": "TvIt",
+          "options": []
+        },
         {
           "url": "http://102.129.186.182:81/la7d/index.m3u8",
           "source": "IPTV-org Italia",
@@ -4988,19 +4993,24 @@
       "logo_present": true
     },
     {
-      "name": "Sportitalia Solocalcio (1080p)",
-      "id": "SportitaliaSolocalcio.it@SD",
-      "logo": "https://i.imgur.com/hu56Ya5.png",
-      "group": "Sports",
+      "name": "Sportitalia Solocalcio",
+      "id": "sportitalia-solocalcio",
+      "logo": "https://api.superguidatv.it/v1/channels/54/logo?width=120&theme=dark",
+      "group": "sportitalia",
       "number": "",
       "streams": [
+        {
+          "url": "https://tvit.leicaflorianrobert.dev/sportitalia/sportitalia-solocalcio/stream.m3u8",
+          "source": "TvIt",
+          "options": []
+        },
         {
           "url": "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
           "source": "IPTV-org Italia",
           "options": []
         }
       ],
-      "epg_verified": false,
+      "epg_verified": true,
       "logo_present": true
     },
     {
