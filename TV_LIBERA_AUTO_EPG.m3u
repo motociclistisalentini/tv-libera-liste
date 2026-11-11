@@ -26,6 +26,9 @@ https://tvit.leicaflorianrobert.dev/mediaset/rete-4/stream.m3u8
 #EXTINF:-1 tvg-id="rete-4" tvg-name="Rete 4" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=120&theme=dark" tvg-chno="104" group-title="mediaset",Rete 4 [alternativa 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1 tvg-id="rete-4" tvg-name="Rete 4" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=120&theme=dark" tvg-chno="104" group-title="mediaset",Rete 4 [alternativa 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.62/stream/14/index.m3u8
 #EXTINF:-1 tvg-id="canale-5" tvg-name="Canale 5" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=120&theme=dark" tvg-chno="105" group-title="mediaset",Canale 5
 https://tvit.leicaflorianrobert.dev/mediaset/canale-5/stream.m3u8
 #EXTINF:-1 tvg-id="canale-5" tvg-name="Canale 5" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=120&theme=dark" tvg-chno="105" group-title="mediaset",Canale 5 [alternativa 1]
@@ -42,6 +45,9 @@ https://tvit.leicaflorianrobert.dev/mediaset/italia-1/stream.m3u8
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 #EXTINF:-1 tvg-id="italia-1" tvg-name="Italia 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=120&theme=dark" tvg-chno="106" group-title="mediaset",Italia 1 [alternativa 2]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:-1 tvg-id="italia-1" tvg-name="Italia 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=120&theme=dark" tvg-chno="106" group-title="mediaset",Italia 1 [alternativa 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.62/stream/21/index.m3u8
 #EXTINF:-1 tvg-id="la7" tvg-name="La7" tvg-logo="https://api.superguidatv.it/v1/channels/253/logo?width=120&theme=dark" tvg-chno="107" group-title="la7",La7
 https://tvit.leicaflorianrobert.dev/la7/la7/stream.m3u8
 #EXTINF:-1 tvg-id="la7" tvg-name="La7" tvg-logo="https://api.superguidatv.it/v1/channels/253/logo?width=120&theme=dark" tvg-chno="107" group-title="la7",La7 [alternativa 1]
@@ -95,6 +101,9 @@ https://tvit.leicaflorianrobert.dev/rai/rai-premium/stream.m3u8
 #EXTINF:-1 tvg-id="rai-premium" tvg-name="Rai Premium" tvg-logo="https://api.superguidatv.it/v1/channels/225/logo?width=120&theme=dark" tvg-chno="125" group-title="rai",Rai Premium [alternativa 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTINF:-1 tvg-id="rai-premium" tvg-name="Rai Premium" tvg-logo="https://api.superguidatv.it/v1/channels/225/logo?width=120&theme=dark" tvg-chno="125" group-title="rai",Rai Premium [alternativa 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://95.141.36.9:8080/stream/170/index.m3u8
 #EXTINF:-1 tvg-id="cielo" tvg-name="Cielo" tvg-logo="https://api.superguidatv.it/v1/channels/239/logo?width=120&theme=dark" tvg-chno="126" group-title="sky",Cielo
 https://tvit.leicaflorianrobert.dev/sky/cielo/stream.m3u8
 #EXTINF:-1 tvg-id="cielo" tvg-name="Cielo" tvg-logo="https://api.superguidatv.it/v1/channels/239/logo?width=120&theme=dark" tvg-chno="126" group-title="sky",Cielo [alternativa 1]
@@ -185,6 +194,9 @@ https://tvit.leicaflorianrobert.dev/rai/rai-yoyo/stream.m3u8
 #EXTINF:-1 tvg-id="rai-yoyo" tvg-name="Rai Yoyo" tvg-logo="https://api.superguidatv.it/v1/channels/227/logo?width=120&theme=dark" tvg-chno="143" group-title="rai",Rai Yoyo [alternativa 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+#EXTINF:-1 tvg-id="rai-yoyo" tvg-name="Rai Yoyo" tvg-logo="https://api.superguidatv.it/v1/channels/227/logo?width=120&theme=dark" tvg-chno="143" group-title="rai",Rai Yoyo [alternativa 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://95.141.36.9:8080/stream/156/index.m3u8
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://api.superguidatv.it/v1/channels/196/logo?width=120&theme=dark" tvg-chno="146" group-title="mediaset",Cartoonito
 https://tvit.leicaflorianrobert.dev/mediaset/cartoonito/stream.m3u8
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://api.superguidatv.it/v1/channels/196/logo?width=120&theme=dark" tvg-chno="146" group-title="mediaset",Cartoonito [alternativa 1]
@@ -318,6 +330,9 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:-1 tvg-id="RadioMontecarlo.it" tvg-name="Radio Montecarlo TV" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/radiomontecarlotv.png" tvg-chno="872" group-title="Radio",Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:-1 tvg-id="RadioMontecarlo.it" tvg-name="Radio Montecarlo TV" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/radiomontecarlotv.png" tvg-chno="872" group-title="Radio",Radio Montecarlo TV [alternativa 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://95.141.36.9:8080/stream/180/index.m3u8
 #EXTINF:-1 tvg-id="RTVSanMarino.it" tvg-name="RTV San Marino" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rtvsanmarino.png" tvg-chno="931" group-title="Radio",RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-id="111TV.it@SD" tvg-name="111 TV (720p)" tvg-logo="https://i.imgur.com/kVREx1Q.png" tvg-chno="" group-title="General",111 TV (720p)
@@ -368,6 +383,9 @@ https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 https://stream.paroledivita.org/bejoy.m3u8
 #EXTINF:-1 tvg-id="BergamoTV.it@SD" tvg-name="Bergamo TV (1080p)" tvg-logo="https://i.imgur.com/Np3RaKv.png" tvg-chno="" group-title="General",Bergamo TV (1080p)
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="BoingPlus.it@SD" tvg-name="Boing Plus" tvg-logo="https://i.imgur.com/STbfHwE.png" tvg-chno="" group-title="Kids",Boing Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://95.141.36.9:8080/stream/181/index.m3u8
 #EXTINF:-1 tvg-id="BomChannel.it@SD" tvg-name="Bom Channel (720p)" tvg-logo="https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png" tvg-chno="" group-title="General",Bom Channel (720p)
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 #EXTINF:-1 tvg-id="BTLTV.nl@SD" tvg-name="BTL TV (Netherlands) (1080p)" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo" tvg-chno="" group-title="Religious",BTL TV (Netherlands) (1080p)
@@ -754,6 +772,24 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 tvg-id="SenatoTV.it@SD" tvg-name="Senato TV (1080p)" tvg-logo="https://i.imgur.com/h4NyN5d.png" tvg-chno="" group-title="Legislative",Senato TV (1080p)
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/960px-Sky_Cinema_Action_-_Logo_2021.svg.png" tvg-chno="" group-title="Movies",Sky Cinema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/26/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/960px-Sky_Cinema_Collection_-_Logo_2021.svg.png" tvg-chno="" group-title="Movies",Sky Cinema Collection
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/18/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.it" tvg-name="Sky Cinema Due" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/960px-Sky_Cinema_Due_-_Logo_2021.svg.png" tvg-chno="" group-title="Movies",Sky Cinema Due
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/10/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/960px-Sky_Cinema_Family_-_Logo_2021.svg.png" tvg-chno="" group-title="Movies",Sky Cinema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/22/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/960px-Sky_Cinema_Suspense_-_Logo_2021.svg.png" tvg-chno="" group-title="Movies",Sky Cinema Suspense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/30/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/960px-Sky_Cinema_Uno_-_Logo_2021.svg.png" tvg-chno="" group-title="Movies",Sky Cinema Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/2/index.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.it@SD" tvg-name="Sophia TV (Italy) (720p)" tvg-logo="https://i.imgur.com/RPXusvS.png" tvg-chno="" group-title="Undefined",Sophia TV (Italy) (720p)
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SouthPark.de@IT" tvg-name="South Park (Germany) IT" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" tvg-chno="" group-title="Animation;Comedy",South Park (Germany) IT

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-10T19:42:21.521106+00:00",
+  "updated_utc": "2026-11-11T06:14:46.398101+00:00",
   "epg": [
     "https://tvit.leicaflorianrobert.dev/epg/list.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
@@ -109,6 +109,13 @@
           "options": [
             "#EXTVLCOPT:http-user-agent=Mozilla/5.0"
           ]
+        },
+        {
+          "url": "http://185.227.34.62/stream/14/index.m3u8",
+          "source": "IPTV-org Italia",
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          ]
         }
       ],
       "epg_verified": true,
@@ -170,6 +177,13 @@
           "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8",
           "source": "IPTV-org Italia",
           "options": []
+        },
+        {
+          "url": "http://185.227.34.62/stream/21/index.m3u8",
+          "source": "IPTV-org Italia",
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          ]
         }
       ],
       "epg_verified": true,
@@ -397,6 +411,13 @@
           "source": "IPTV-Italy",
           "options": [
             "#EXTVLCOPT:http-user-agent=Mozilla/5.0"
+          ]
+        },
+        {
+          "url": "http://95.141.36.9:8080/stream/170/index.m3u8",
+          "source": "IPTV-org Italia",
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
           ]
         }
       ],
@@ -804,6 +825,13 @@
           "source": "IPTV-Italy",
           "options": [
             "#EXTVLCOPT:http-user-agent=Mozilla/5.0"
+          ]
+        },
+        {
+          "url": "http://95.141.36.9:8080/stream/156/index.m3u8",
+          "source": "IPTV-org Italia",
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
           ]
         }
       ],
@@ -1504,6 +1532,13 @@
           "options": [
             "#EXTVLCOPT:http-user-agent=Mozilla/5.0"
           ]
+        },
+        {
+          "url": "http://95.141.36.9:8080/stream/180/index.m3u8",
+          "source": "IPTV-org Italia",
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          ]
         }
       ],
       "epg_verified": false,
@@ -1904,6 +1939,24 @@
           "url": "https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8",
           "source": "IPTV-org Italia",
           "options": []
+        }
+      ],
+      "epg_verified": false,
+      "logo_present": true
+    },
+    {
+      "name": "Boing Plus",
+      "id": "BoingPlus.it@SD",
+      "logo": "https://i.imgur.com/STbfHwE.png",
+      "group": "Kids",
+      "number": "",
+      "streams": [
+        {
+          "url": "http://95.141.36.9:8080/stream/181/index.m3u8",
+          "source": "IPTV-org Italia",
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          ]
         }
       ],
       "epg_verified": false,
@@ -4926,6 +4979,114 @@
         }
       ],
       "epg_verified": false,
+      "logo_present": true
+    },
+    {
+      "name": "Sky Cinema Action",
+      "id": "Sky.Cinema.Action.it",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/960px-Sky_Cinema_Action_-_Logo_2021.svg.png",
+      "group": "Movies",
+      "number": "",
+      "streams": [
+        {
+          "url": "http://109.169.87.42:8080/stream/26/index.m3u8",
+          "source": "IPTV-org Italia",
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          ]
+        }
+      ],
+      "epg_verified": true,
+      "logo_present": true
+    },
+    {
+      "name": "Sky Cinema Collection",
+      "id": "Sky.Cinema.Collection.it",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/960px-Sky_Cinema_Collection_-_Logo_2021.svg.png",
+      "group": "Movies",
+      "number": "",
+      "streams": [
+        {
+          "url": "http://109.169.87.42:8080/stream/18/index.m3u8",
+          "source": "IPTV-org Italia",
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          ]
+        }
+      ],
+      "epg_verified": true,
+      "logo_present": true
+    },
+    {
+      "name": "Sky Cinema Due",
+      "id": "Sky.Cinema.Due.it",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/960px-Sky_Cinema_Due_-_Logo_2021.svg.png",
+      "group": "Movies",
+      "number": "",
+      "streams": [
+        {
+          "url": "http://109.169.87.42:8080/stream/10/index.m3u8",
+          "source": "IPTV-org Italia",
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          ]
+        }
+      ],
+      "epg_verified": true,
+      "logo_present": true
+    },
+    {
+      "name": "Sky Cinema Family",
+      "id": "Sky.Cinema.Family.it",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/960px-Sky_Cinema_Family_-_Logo_2021.svg.png",
+      "group": "Movies",
+      "number": "",
+      "streams": [
+        {
+          "url": "http://109.169.87.42:8080/stream/22/index.m3u8",
+          "source": "IPTV-org Italia",
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          ]
+        }
+      ],
+      "epg_verified": true,
+      "logo_present": true
+    },
+    {
+      "name": "Sky Cinema Suspense",
+      "id": "Sky.Cinema.Suspense.it",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/960px-Sky_Cinema_Suspense_-_Logo_2021.svg.png",
+      "group": "Movies",
+      "number": "",
+      "streams": [
+        {
+          "url": "http://109.169.87.42:8080/stream/30/index.m3u8",
+          "source": "IPTV-org Italia",
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          ]
+        }
+      ],
+      "epg_verified": true,
+      "logo_present": true
+    },
+    {
+      "name": "Sky Cinema Uno",
+      "id": "Sky.Cinema.Uno.it",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/960px-Sky_Cinema_Uno_-_Logo_2021.svg.png",
+      "group": "Movies",
+      "number": "",
+      "streams": [
+        {
+          "url": "http://109.169.87.42:8080/stream/2/index.m3u8",
+          "source": "IPTV-org Italia",
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          ]
+        }
+      ],
+      "epg_verified": true,
       "logo_present": true
     },
     {
