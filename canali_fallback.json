@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-11T14:26:01.799591+00:00",
+  "updated_utc": "2026-11-12T00:41:50.634592+00:00",
   "epg": [
     "https://tvit.leicaflorianrobert.dev/epg/list.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
@@ -1182,9 +1182,11 @@
           "options": []
         },
         {
-          "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8",
+          "url": "http://57.128.225.206/stream/7/index.m3u8",
           "source": "IPTV-org Italia",
-          "options": []
+          "options": [
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          ]
         }
       ],
       "epg_verified": true,
@@ -2292,7 +2294,7 @@
       "number": "",
       "streams": [
         {
-          "url": "https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8",
+          "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8",
           "source": "IPTV-org Italia",
           "options": []
         }
@@ -5614,7 +5616,7 @@
       "number": "",
       "streams": [
         {
-          "url": "https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8",
+          "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8",
           "source": "IPTV-org Italia",
           "options": []
         }
