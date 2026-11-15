@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-14T22:22:48.106959+00:00",
+  "updated_utc": "2026-11-15T06:28:08.352907+00:00",
   "epg": [
     "https://tvit.leicaflorianrobert.dev/epg/list.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
@@ -23,11 +23,6 @@
           "options": [
             "#EXTVLCOPT:http-user-agent=Mozilla/5.0"
           ]
-        },
-        {
-          "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
-          "source": "IPTV-org Italia",
-          "options": []
         }
       ],
       "epg_verified": true,
@@ -1106,6 +1101,11 @@
           "options": [
             "#EXTVLCOPT:http-user-agent=Mozilla/5.0"
           ]
+        },
+        {
+          "url": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896",
+          "source": "IPTV-org Italia",
+          "options": []
         }
       ],
       "epg_verified": true,
@@ -1981,6 +1981,22 @@
       "logo_present": true
     },
     {
+      "name": "Boomerang (Italy)",
+      "id": "Boomerang.it",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
+      "group": "Kids",
+      "number": "",
+      "streams": [
+        {
+          "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2705627802",
+          "source": "IPTV-org Italia",
+          "options": []
+        }
+      ],
+      "epg_verified": true,
+      "logo_present": true
+    },
+    {
       "name": "BTL TV (Netherlands) (1080p)",
       "id": "BTLTV.nl@SD",
       "logo": "https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo",
@@ -2529,6 +2545,38 @@
         }
       ],
       "epg_verified": false,
+      "logo_present": true
+    },
+    {
+      "name": "Eurosport 1 Italy",
+      "id": "Eurosport1.fr@Italy",
+      "logo": "https://i.imgur.com/olQJgm7.png",
+      "group": "Sports",
+      "number": "",
+      "streams": [
+        {
+          "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8",
+          "source": "IPTV-org Italia",
+          "options": []
+        }
+      ],
+      "epg_verified": false,
+      "logo_present": true
+    },
+    {
+      "name": "Eurosport 2 Italy (540p)",
+      "id": "Eurosport.2.Italia.it",
+      "logo": "https://i.imgur.com/f56dHgR.png",
+      "group": "Sports",
+      "number": "",
+      "streams": [
+        {
+          "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8",
+          "source": "IPTV-org Italia",
+          "options": []
+        }
+      ],
+      "epg_verified": true,
       "logo_present": true
     },
     {
