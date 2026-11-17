@@ -4,6 +4,8 @@ https://tvit.leicaflorianrobert.dev/rai/rai-1/stream.m3u8
 #EXTINF:-1 tvg-id="rai-1" tvg-name="Rai 1" tvg-logo="https://api.superguidatv.it/v1/channels/217/logo?width=120&theme=dark" tvg-chno="101" group-title="rai",Rai 1 [alternativa 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-id="rai-1" tvg-name="Rai 1" tvg-logo="https://api.superguidatv.it/v1/channels/217/logo?width=120&theme=dark" tvg-chno="101" group-title="rai",Rai 1 [alternativa 2]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_uno/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="rai-2" tvg-name="Rai 2" tvg-logo="https://api.superguidatv.it/v1/channels/218/logo?width=120&theme=dark" tvg-chno="102" group-title="rai",Rai 2
 https://tvit.leicaflorianrobert.dev/rai/rai-2/stream.m3u8
 #EXTINF:-1 tvg-id="rai-2" tvg-name="Rai 2" tvg-logo="https://api.superguidatv.it/v1/channels/218/logo?width=120&theme=dark" tvg-chno="102" group-title="rai",Rai 2 [alternativa 1]
@@ -25,8 +27,7 @@ https://tvit.leicaflorianrobert.dev/mediaset/rete-4/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1 tvg-id="rete-4" tvg-name="Rete 4" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=120&theme=dark" tvg-chno="104" group-title="mediaset",Rete 4 [alternativa 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://185.227.34.62/stream/14/index.m3u8
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rete_4/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="canale-5" tvg-name="Canale 5" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=120&theme=dark" tvg-chno="105" group-title="mediaset",Canale 5
 https://tvit.leicaflorianrobert.dev/mediaset/canale-5/stream.m3u8
 #EXTINF:-1 tvg-id="canale-5" tvg-name="Canale 5" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=120&theme=dark" tvg-chno="105" group-title="mediaset",Canale 5 [alternativa 1]
@@ -35,7 +36,7 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/
 #EXTINF:-1 tvg-id="canale-5" tvg-name="Canale 5" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=120&theme=dark" tvg-chno="105" group-title="mediaset",Canale 5 [alternativa 2]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF:-1 tvg-id="canale-5" tvg-name="Canale 5" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=120&theme=dark" tvg-chno="105" group-title="mediaset",Canale 5 [alternativa 3]
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="italia-1" tvg-name="Italia 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=120&theme=dark" tvg-chno="106" group-title="mediaset",Italia 1
 https://tvit.leicaflorianrobert.dev/mediaset/italia-1/stream.m3u8
 #EXTINF:-1 tvg-id="italia-1" tvg-name="Italia 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=120&theme=dark" tvg-chno="106" group-title="mediaset",Italia 1 [alternativa 1]
@@ -44,8 +45,7 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/
 #EXTINF:-1 tvg-id="italia-1" tvg-name="Italia 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=120&theme=dark" tvg-chno="106" group-title="mediaset",Italia 1 [alternativa 2]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 #EXTINF:-1 tvg-id="italia-1" tvg-name="Italia 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=120&theme=dark" tvg-chno="106" group-title="mediaset",Italia 1 [alternativa 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://185.227.34.62/stream/21/index.m3u8
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="la7" tvg-name="La7" tvg-logo="https://api.superguidatv.it/v1/channels/253/logo?width=120&theme=dark" tvg-chno="107" group-title="la7",La7
 https://tvit.leicaflorianrobert.dev/la7/la7/stream.m3u8
 #EXTINF:-1 tvg-id="la7" tvg-name="La7" tvg-logo="https://api.superguidatv.it/v1/channels/253/logo?width=120&theme=dark" tvg-chno="107" group-title="la7",La7 [alternativa 1]
@@ -253,7 +253,7 @@ https://tvit.leicaflorianrobert.dev/mediaset/mediaset-extra/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 #EXTINF:-1 tvg-id="mediaset-extra" tvg-name="Mediaset Extra" tvg-logo="https://api.superguidatv.it/v1/channels/194/logo?width=120&theme=dark" tvg-chno="155" group-title="mediaset",Mediaset Extra [alternativa 2]
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="rai-sport-hd" tvg-name="Rai Sport" tvg-logo="https://api.superguidatv.it/v1/channels/223/logo?width=120&theme=dark" tvg-chno="157" group-title="rai",Rai Sport
 https://tvit.leicaflorianrobert.dev/rai/rai-sport-hd/stream.m3u8
 #EXTINF:-1 tvg-id="rai-sport-hd" tvg-name="Rai Sport" tvg-logo="https://api.superguidatv.it/v1/channels/223/logo?width=120&theme=dark" tvg-chno="157" group-title="rai",Rai Sport [alternativa 1]
@@ -370,6 +370,8 @@ https://tvit.leicaflorianrobert.dev/antena/antena1/stream.m3u8
 https://tvit.leicaflorianrobert.dev/antena/antena-monden/stream.m3u8
 #EXTINF:-1 tvg-id="Antenna2TV.it@SD" tvg-name="Antenna 2 TV (720p)" tvg-logo="https://i.imgur.com/kNrzk3X.png" tvg-chno="" group-title="General",Antenna 2 TV (720p)
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AntennaSicilia.it@SD" tvg-name="Antenna Sicilia (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Antennasicilia.png" tvg-chno="" group-title="General",Antenna Sicilia (720p)
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 #EXTINF:-1 tvg-id="AntennaSud.it@SD" tvg-name="Antenna Sud (720p)" tvg-logo="https://i.imgur.com/Sf0bA4P.png" tvg-chno="" group-title="General",Antenna Sud (720p)
 https://live.antennasudwebtv.it:9443/hls/vod.m3u8
 #EXTINF:-1 tvg-id="AntennaSudExtra.it@SD" tvg-name="Antenna Sud Extra (720p)" tvg-logo="https://i.imgur.com/kiCcHzc.png" tvg-chno="" group-title="General",Antenna Sud Extra (720p)
@@ -384,6 +386,8 @@ https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 https://stream.paroledivita.org/bejoy.m3u8
 #EXTINF:-1 tvg-id="BergamoTV.it@SD" tvg-name="Bergamo TV (1080p)" tvg-logo="https://i.imgur.com/Np3RaKv.png" tvg-chno="" group-title="General",Bergamo TV (1080p)
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="BikeChannel.it@HD" tvg-name="Bike Channel HD (1080p)" tvg-logo="https://i.imgur.com/WrNxg2k.png" tvg-chno="" group-title="Undefined",Bike Channel HD (1080p)
+https://018e1901ad234f04ae16388eda6778e5.msvdn.net/live/S94763187/reFXDHQfBndw/playlist.m3u8
 #EXTINF:-1 tvg-id="BoingPlus.it@SD" tvg-name="Boing Plus" tvg-logo="https://i.imgur.com/STbfHwE.png" tvg-chno="" group-title="Kids",Boing Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://95.141.36.9:8080/stream/181/index.m3u8

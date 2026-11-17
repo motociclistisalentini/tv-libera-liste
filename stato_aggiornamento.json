@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-16T21:59:50.009070+00:00",
+  "updated_utc": "2026-11-17T07:53:40.756997+00:00",
   "sources": [
     {
       "source": "TvIt",
@@ -14,7 +14,7 @@
     {
       "source": "IPTV-org Italia",
       "ok": true,
-      "entries": 353
+      "entries": 356
     }
   ],
   "epg_sources": [
@@ -29,9 +29,9 @@
       "channels": 195
     }
   ],
-  "channels": 378,
-  "streams": 461,
-  "logos_associated": 374,
+  "channels": 380,
+  "streams": 464,
+  "logos_associated": 376,
   "logos_missing": [
     "Antenna Tre (480p) [Geo-blocked]",
     "Giovanni Paolo TV (1080p)",
@@ -39,5 +39,5 @@
     "Tele One 16 (1080p)"
   ],
   "epg_matched": 90,
-  "epg_unmatched": 288
+  "epg_unmatched": 290
 }
