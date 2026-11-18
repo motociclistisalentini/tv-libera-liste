@@ -19,8 +19,6 @@ https://tvit.leicaflorianrobert.dev/rai/rai-3/stream.m3u8
 #EXTINF:-1 tvg-id="rai-3" tvg-name="Rai 3" tvg-logo="https://api.superguidatv.it/v1/channels/219/logo?width=120&theme=dark" tvg-chno="103" group-title="rai",Rai 3 [alternativa 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
-#EXTINF:-1 tvg-id="rai-3" tvg-name="Rai 3" tvg-logo="https://api.superguidatv.it/v1/channels/219/logo?width=120&theme=dark" tvg-chno="103" group-title="rai",Rai 3 [alternativa 2]
-https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
 #EXTINF:-1 tvg-id="rete-4" tvg-name="Rete 4" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=120&theme=dark" tvg-chno="104" group-title="mediaset",Rete 4
 https://tvit.leicaflorianrobert.dev/mediaset/rete-4/stream.m3u8
 #EXTINF:-1 tvg-id="rete-4" tvg-name="Rete 4" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=120&theme=dark" tvg-chno="104" group-title="mediaset",Rete 4 [alternativa 1]
@@ -244,9 +242,6 @@ https://tvit.leicaflorianrobert.dev/rai/rai-storia/stream.m3u8
 #EXTINF:-1 tvg-id="rai-storia" tvg-name="Rai Storia" tvg-logo="https://api.superguidatv.it/v1/channels/226/logo?width=120&theme=dark" tvg-chno="154" group-title="rai",Rai Storia [alternativa 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
-#EXTINF:-1 tvg-id="rai-storia" tvg-name="Rai Storia" tvg-logo="https://api.superguidatv.it/v1/channels/226/logo?width=120&theme=dark" tvg-chno="154" group-title="rai",Rai Storia [alternativa 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 #EXTINF:-1 tvg-id="mediaset-extra" tvg-name="Mediaset Extra" tvg-logo="https://api.superguidatv.it/v1/channels/194/logo?width=120&theme=dark" tvg-chno="155" group-title="mediaset",Mediaset Extra
 https://tvit.leicaflorianrobert.dev/mediaset/mediaset-extra/stream.m3u8
 #EXTINF:-1 tvg-id="mediaset-extra" tvg-name="Mediaset Extra" tvg-logo="https://api.superguidatv.it/v1/channels/194/logo?width=120&theme=dark" tvg-chno="155" group-title="mediaset",Mediaset Extra [alternativa 1]
@@ -344,7 +339,7 @@ https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="20 [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png" tvg-chno="" group-title="Entertainment",20 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
-#EXTINF:-1 tvg-id="50Canale.it@SD" tvg-name="50 Canale" tvg-logo="https://i.imgur.com/D3OTRzf.png" tvg-chno="" group-title="General",50 Canale
+#EXTINF:-1 tvg-id="50Canale.it@SD" tvg-name="50 Canale (720p)" tvg-logo="https://i.imgur.com/D3OTRzf.png" tvg-chno="" group-title="General",50 Canale (720p)
 https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1 tvg-id="51RadioTV.it@SD" tvg-name="51 Radio TV (480p) [Geo-blocked]" tvg-logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png" tvg-chno="" group-title="Music",51 Radio TV (480p) [Geo-blocked]
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
@@ -720,7 +715,7 @@ https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playli
 https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 Trentino-Alto Adige Trento (408p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-chno="" group-title="Undefined",Rai 3 Trentino-Alto Adige Trento (408p)
 https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiSudtirol.it@SD" tvg-name="Rai Sudtirol" tvg-logo="https://i.imgur.com/Z3npd4M.png" tvg-chno="" group-title="Undefined",Rai Sudtirol
+#EXTINF:-1 tvg-id="RaiSudtirol.it@SD" tvg-name="Rai Sudtirol (1080p)" tvg-logo="https://i.imgur.com/Z3npd4M.png" tvg-chno="" group-title="Undefined",Rai Sudtirol (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Italy" tvg-name="Rakuten TV Action Movies Italy (1080p)" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-chno="" group-title="Movies",Rakuten TV Action Movies Italy (1080p)

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-17T20:53:21.970147+00:00",
+  "updated_utc": "2026-11-18T07:25:49.692865+00:00",
   "epg": [
     "https://tvit.leicaflorianrobert.dev/epg/list.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
@@ -81,11 +81,6 @@
           "options": [
             "#EXTVLCOPT:http-user-agent=Mozilla/5.0"
           ]
-        },
-        {
-          "url": "https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8",
-          "source": "IPTV-org Italia",
-          "options": []
         }
       ],
       "epg_verified": true,
@@ -1037,13 +1032,6 @@
           "options": [
             "#EXTVLCOPT:http-user-agent=Mozilla/5.0"
           ]
-        },
-        {
-          "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8",
-          "source": "IPTV-org Italia",
-          "options": [
-            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-          ]
         }
       ],
       "epg_verified": true,
@@ -1628,7 +1616,7 @@
       "logo_present": true
     },
     {
-      "name": "50 Canale",
+      "name": "50 Canale (720p)",
       "id": "50Canale.it@SD",
       "logo": "https://i.imgur.com/D3OTRzf.png",
       "group": "General",
@@ -4567,7 +4555,7 @@
       "logo_present": true
     },
     {
-      "name": "Rai Sudtirol",
+      "name": "Rai Sudtirol (1080p)",
       "id": "RaiSudtirol.it@SD",
       "logo": "https://i.imgur.com/Z3npd4M.png",
       "group": "Undefined",
