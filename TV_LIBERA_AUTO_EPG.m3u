@@ -257,8 +257,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 #EXTINF:-1 tvg-id="rai-sport-hd" tvg-name="Rai Sport" tvg-logo="https://api.superguidatv.it/v1/channels/223/logo?width=120&theme=dark" tvg-chno="157" group-title="rai",Rai Sport [alternativa 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071
-#EXTINF:-1 tvg-id="rai-sport-hd" tvg-name="Rai Sport" tvg-logo="https://api.superguidatv.it/v1/channels/223/logo?width=120&theme=dark" tvg-chno="157" group-title="rai",Rai Sport [alternativa 3]
-http://sultanios.alwaysdata.net/vavo.php?ID=843891896
 #EXTINF:-1 tvg-id="Motor.Trend.it" tvg-name="Motor Trend" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/motortrend.png" tvg-chno="159" group-title="Discovery",Motor Trend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="sportitalia" tvg-name="Sportitalia" tvg-logo="https://api.superguidatv.it/v1/channels/54/logo?width=120&theme=dark" tvg-chno="160" group-title="sportitalia",Sportitalia

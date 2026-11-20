@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-19T20:34:13.442664+00:00",
+  "updated_utc": "2026-11-20T07:12:44.220439+00:00",
   "sources": [
     {
       "source": "TvIt",
@@ -14,7 +14,7 @@
     {
       "source": "IPTV-org Italia",
       "ok": true,
-      "entries": 354
+      "entries": 353
     }
   ],
   "epg_sources": [
@@ -30,7 +30,7 @@
     }
   ],
   "channels": 380,
-  "streams": 462,
+  "streams": 461,
   "logos_associated": 376,
   "logos_missing": [
     "Antenna Tre (480p) [Geo-blocked]",

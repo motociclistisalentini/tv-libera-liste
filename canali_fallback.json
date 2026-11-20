@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-19T20:34:13.439659+00:00",
+  "updated_utc": "2026-11-20T07:12:44.217836+00:00",
   "epg": [
     "https://tvit.leicaflorianrobert.dev/epg/list.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
@@ -1090,11 +1090,6 @@
           "options": [
             "#EXTVLCOPT:http-user-agent=Mozilla/5.0"
           ]
-        },
-        {
-          "url": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896",
-          "source": "IPTV-org Italia",
-          "options": []
         }
       ],
       "epg_verified": true,
