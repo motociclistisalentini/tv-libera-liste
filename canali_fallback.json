@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-20T20:14:30.240428+00:00",
+  "updated_utc": "2026-11-21T07:03:46.032729+00:00",
   "epg": [
     "https://tvit.leicaflorianrobert.dev/epg/list.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
@@ -1994,22 +1994,6 @@
         }
       ],
       "epg_verified": false,
-      "logo_present": true
-    },
-    {
-      "name": "Boomerang (Italy)",
-      "id": "Boomerang.it",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
-      "group": "Kids",
-      "number": "",
-      "streams": [
-        {
-          "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2705627802",
-          "source": "IPTV-org Italia",
-          "options": []
-        }
-      ],
-      "epg_verified": true,
       "logo_present": true
     },
     {
@@ -5156,6 +5140,22 @@
       "logo_present": true
     },
     {
+      "name": "Sky Sport F1 (Italy)",
+      "id": "Sky.Sport.F1.it",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png",
+      "group": "Sports",
+      "number": "",
+      "streams": [
+        {
+          "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d",
+          "source": "IPTV-org Italia",
+          "options": []
+        }
+      ],
+      "epg_verified": true,
+      "logo_present": true
+    },
+    {
       "name": "Sophia TV (Italy) (720p)",
       "id": "SophiaTV.it@SD",
       "logo": "https://i.imgur.com/RPXusvS.png",
@@ -5164,22 +5164,6 @@
       "streams": [
         {
           "url": "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8",
-          "source": "IPTV-org Italia",
-          "options": []
-        }
-      ],
-      "epg_verified": false,
-      "logo_present": true
-    },
-    {
-      "name": "South Park (Germany) IT",
-      "id": "SouthPark.de@IT",
-      "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-      "group": "Animation;Comedy",
-      "number": "",
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
           "source": "IPTV-org Italia",
           "options": []
         }
@@ -5238,22 +5222,6 @@
         }
       ],
       "epg_verified": true,
-      "logo_present": true
-    },
-    {
-      "name": "Star Trek: Voyager (Germany) IT",
-      "id": "StarTrekVoyager.de@IT",
-      "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-      "group": "Movies;Series",
-      "number": "",
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8",
-          "source": "IPTV-org Italia",
-          "options": []
-        }
-      ],
-      "epg_verified": false,
       "logo_present": true
     },
     {
@@ -5441,22 +5409,6 @@
       "streams": [
         {
           "url": "https://m.iostream.it/hls/teatrotv/teatrotv.m3u8",
-          "source": "IPTV-org Italia",
-          "options": []
-        }
-      ],
-      "epg_verified": false,
-      "logo_present": true
-    },
-    {
-      "name": "Teen Mom (Germany)",
-      "id": "TeenMom.de@IT",
-      "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
-      "group": "Entertainment",
-      "number": "",
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8",
           "source": "IPTV-org Italia",
           "options": []
         }
