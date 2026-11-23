@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-22T19:36:51.534353+00:00",
+  "updated_utc": "2026-11-23T07:34:31.998330+00:00",
   "epg": [
     "https://tvit.leicaflorianrobert.dev/epg/list.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
@@ -2548,7 +2548,7 @@
       "logo_present": true
     },
     {
-      "name": "Eurosport 1 Italy",
+      "name": "Eurosport 1 Italy (720p)",
       "id": "Eurosport1.fr@Italy",
       "logo": "https://i.imgur.com/olQJgm7.png",
       "group": "Sports",
@@ -3184,7 +3184,7 @@
       "logo_present": true
     },
     {
-      "name": "Lira TV",
+      "name": "Lira TV (1080p)",
       "id": "LiraTV.it@SD",
       "logo": "https://i.imgur.com/sC9ELuY.jpg",
       "group": "News",
