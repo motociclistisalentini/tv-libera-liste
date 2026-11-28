@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-27T21:14:36.649846+00:00",
+  "updated_utc": "2026-11-28T07:45:09.311503+00:00",
   "epg": [
     "https://tvit.leicaflorianrobert.dev/epg/list.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
@@ -3051,14 +3051,14 @@
       "logo_present": true
     },
     {
-      "name": "La Nuova TV (720p)",
+      "name": "La Nuova TV (1080p)",
       "id": "LaNuovaTV.it@SD",
       "logo": "https://i.imgur.com/OHMv86A.png",
       "group": "General",
       "number": "",
       "streams": [
         {
-          "url": "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8",
+          "url": "https://play.video.serverroom.net/lanuovatvbas/livestream/playlist.m3u8",
           "source": "IPTV-org Italia",
           "options": []
         }
